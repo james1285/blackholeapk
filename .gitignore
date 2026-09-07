@@ -4,7 +4,11 @@
 # Duplicate APK archive (primary downloads reside in assets/downloads/)
 File/
 
-# Logs & temp files
+# Local server script (not needed for Vercel static hosting)
+server.js
+
+# Node modules & logs
+node_modules/
 *.log
 .DS_Store
 Thumbs.db
