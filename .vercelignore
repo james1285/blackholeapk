@@ -1,0 +1,7 @@
+# Exclude duplicate APK storage to stay well within Vercel limits
+File/
+server.js
+.git/
+.gitignore
+README.txt
+*.log

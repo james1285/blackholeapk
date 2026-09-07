@@ -1,0 +1,10 @@
+# Vercel deployment artifacts
+.vercel/
+
+# Duplicate APK archive (primary downloads reside in assets/downloads/)
+File/
+
+# Logs & temp files
+*.log
+.DS_Store
+Thumbs.db

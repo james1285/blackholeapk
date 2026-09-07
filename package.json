@@ -1,0 +1,19 @@
+{
+  "name": "blackhole-apk-web",
+  "version": "1.15.10",
+  "description": "Official website and download portal for BlackHole Music Player",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "blackhole",
+    "apk",
+    "music-player",
+    "flutter",
+    "open-source"
+  ],
+  "author": "BlackHole Community",
+  "license": "GPL-3.0"
+}
